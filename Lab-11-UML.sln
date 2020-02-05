@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_11_UML", "Lab-11-UML\Lab_11_UML.csproj", "{05B82DDC-7192-4544-A8F7-3BCCD9AEC205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05B82DDC-7192-4544-A8F7-3BCCD9AEC205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B82DDC-7192-4544-A8F7-3BCCD9AEC205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B82DDC-7192-4544-A8F7-3BCCD9AEC205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B82DDC-7192-4544-A8F7-3BCCD9AEC205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {340DADAD-31EF-4C06-ADAF-F669A3B5B166}
+	EndGlobalSection
+EndGlobal
